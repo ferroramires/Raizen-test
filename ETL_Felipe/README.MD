@@ -33,5 +33,5 @@ Data should be stored in the following format:
 ## Things I could improve as time goes on
 
 1. Further split my dag to optimize performance/usability
-2. Further improve docker config
+2. Further improve docker config to use generic filepathing
 3. Work better with files in order to have every complete step in a different folder.
