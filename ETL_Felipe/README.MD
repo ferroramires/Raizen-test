@@ -15,7 +15,7 @@ Data should be stored in the following format:
 
 ##Source File
 
-  -vendas_combustiveis.xlsx
+  - vendas_combustiveis.xlsx
   
 ## Information
 1. Created an airflow container using docker_compose.
